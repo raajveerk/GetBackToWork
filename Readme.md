@@ -5,4 +5,4 @@ This is basically a chrome extension that shows the dissapointed meme with a dad
 
 
 ### Here's the working of the extension:
-![](https://github.com/raajveerk/GetBackToWork/blob/main/app.gif)
+![](https://github.com/raajveerk/GetBackToWork/blob/main/app.mp4)
